@@ -1,3 +1,3 @@
 # My Web Page Project
 
-![Banner](Wen-Page.png)
+![Banner](Web-Page.png)
